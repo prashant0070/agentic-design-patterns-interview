@@ -7,10 +7,10 @@
 [![Q&A](https://img.shields.io/badge/interview%20Q%26As-100%2B-orange.svg)](26-interview-qa-bank.md)
 [![System Design](https://img.shields.io/badge/system%20design-agent%20platforms-purple.svg)](27-system-design-agent-platforms.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/agentic-design-patterns-interview?style=social)](https://github.com/YOUR_GITHUB_USERNAME/agentic-design-patterns-interview)
+[![Stars](https://img.shields.io/github/stars/prashant0070/agentic-design-patterns-interview?style=social)](https://github.com/prashant0070/agentic-design-patterns-interview)
 
 > ★ **Star this repo** if you’re interviewing for agentic AI roles—then follow a learning path below.  
-> Replace `YOUR_GITHUB_USERNAME/agentic-design-patterns-interview` in badge URLs after you publish.
+> Replace `prashant0070/agentic-design-patterns-interview` in badge URLs after you publish.
 
 ---
 
@@ -180,10 +180,10 @@ ALWAYS                        → Budgets, traces, idempotency
 
 If this saves you an interview loop, **star the repo** so others can find it—and fork it to add your company’s internal pattern variants (privately).
 
-[![Star](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/agentic-design-patterns-interview?style=social)](https://github.com/YOUR_GITHUB_USERNAME/agentic-design-patterns-interview)
+[![Star](https://img.shields.io/github/stars/prashant0070/agentic-design-patterns-interview?style=social)](https://github.com/prashant0070/agentic-design-patterns-interview)
 
 ```text
-git clone https://github.com/YOUR_GITHUB_USERNAME/agentic-design-patterns-interview.git
+git clone https://github.com/prashant0070/agentic-design-patterns-interview.git
 cd agentic-design-patterns-interview
 open docs/STARTER_PACK.md
 ```
